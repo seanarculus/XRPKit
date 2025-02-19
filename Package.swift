@@ -7,7 +7,7 @@ let package = Package(
     name: "XRPKit",
     platforms: [
         .macOS(.v10_14),
-        .iOS(.v10),
+        .iOS(.v14),
         .tvOS(.v10),
         .watchOS(.v3),
     ],
