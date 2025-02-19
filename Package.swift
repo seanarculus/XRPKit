@@ -22,7 +22,7 @@ let package = Package(
         // .package(url: /* package url */, from: "1.0.0"),
         .package(url: "https://github.com/Boilertalk/secp256k1.swift.git", from: "0.1.4"),
         .package(url: "https://github.com/krzyzanowskim/CryptoSwift.git",  from: "1.8.0"),
-        .package(url: "https://github.com/Boilertalk/BigInt.swift.git", from: "1.0.0"),
+        .package(url: "https://github.com/attaswift/BigInt.git", from: "5.2.0"),
         .package(url: "https://github.com/Flight-School/AnyCodable.git", from: "0.2.3"),
 //        .package(url: "https://github.com/apple/swift-nio.git", from: "1.0.0"),
         .package(url: "https://github.com/apple/swift-nio.git", from: "2.0.0"),
